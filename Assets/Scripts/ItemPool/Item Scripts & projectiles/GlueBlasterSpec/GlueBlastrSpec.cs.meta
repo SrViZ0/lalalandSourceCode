@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bd8f8bebf03b6e74daac944d487665ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - glueSprayPrefab: {fileID: 1187547935691402073, guid: 7bbdc63b3e01be542a7822d0745d53a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

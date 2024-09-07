@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b25dd93de1e8e34f9c44bdc9ecf91f4, type: 3}
+  m_Name: Glue Blaster
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: Glue Blaster
+  displayName: Glue Boomer
+  unlocked: 0
+  equipped: 0
+  active: 0
+  fireRate: 1.5
+  currentAmmoCount: 0
+  maxAmmoCount: 4
+  downtime: 0
+  hubSlot: {fileID: 4167201298793850775, guid: e5e6635da2a87e64e8d6dd9cfa430d5d, type: 3}
+  lockedModelPrefab: {fileID: 1165184215344617272, guid: b97b2d82bdf49204b8eee5071388e423, type: 3}
+  activeModel: {fileID: 0}
+  projectilePrefab: {fileID: 7082850398725881405, guid: 5813d6040bc636149a847465cb42fdfe, type: 3}
+  skins:
+  - {fileID: 1165184215344617272, guid: 624dc3197da03ad40b9c380b97c01056, type: 3}
+  - {fileID: 1165184215344617272, guid: b512e389d47e8a741ac893a7ac5ac940, type: 3}
+  - {fileID: 1165184215344617272, guid: b904e564fbeda8340afc47bb7cedafe2, type: 3}
+  - {fileID: 1165184215344617272, guid: ca5ad40499935a547b66dc5b2337e6e9, type: 3}
+  - {fileID: 1165184215344617272, guid: 01ea1a63d7852864db6893161a080136, type: 3}

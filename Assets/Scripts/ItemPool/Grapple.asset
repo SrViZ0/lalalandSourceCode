@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b25dd93de1e8e34f9c44bdc9ecf91f4, type: 3}
+  m_Name: Grapple
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: Grapple
+  displayName: Grappling Hook
+  unlocked: 0
+  equipped: 0
+  active: 0
+  fireRate: 1
+  currentAmmoCount: 3
+  maxAmmoCount: 3
+  downtime: 1
+  hubSlot: {fileID: 4167201298793850775, guid: 9e925154ee15fdb4bb3cac6b0ac3c058, type: 3}
+  lockedModelPrefab: {fileID: 2546051284287319064, guid: 863c44c1d0017c142a7119b427a0e9ca, type: 3}
+  activeModel: {fileID: 0}
+  projectilePrefab: {fileID: 6782594407730118132, guid: b822dedf935be7849b8e5eca7a3d38f0, type: 3}
+  skins:
+  - {fileID: 5017479067269771410, guid: 848e69d13f943804d92d6dcd2a780c16, type: 3}

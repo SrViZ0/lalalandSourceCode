@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d912a5beefef824995af58a279012e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - muzzlePoint: {instanceID: 0}
+  - bulletColor: {instanceID: 0}
+  - hardGluePrefab: {fileID: 1187547935691402073, guid: 58d7d5ecb1557fb42a19c81a82e6b0c1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

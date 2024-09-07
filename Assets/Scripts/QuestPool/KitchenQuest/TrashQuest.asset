@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e3de58406ef784c94f21ffba82de4c, type: 3}
+  m_Name: TrashQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: TrashQuest
+  displayName: Kill 3 Enemies using Trash Chute at the same time
+  questRequirement: []
+  questStepPrefabs:
+  - {fileID: 3030833420509731306, guid: 57f17a8ece456594197f22e34abf2b79, type: 3}
+  - {fileID: 3030833420509731306, guid: 57f17a8ece456594197f22e34abf2b79, type: 3}
+  itemReward: {fileID: 11400000, guid: 35793af09d1e2404d98b0ef16d7171f9, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e3de58406ef784c94f21ffba82de4c, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: Tutorial
+  displayName: Complete The Tutorial
+  questRequirement: []
+  questStepPrefabs:
+  - {fileID: 674940536444763898, guid: ca07095e4d3b5354ea3dc04d8188594c, type: 3}
+  - {fileID: 3030833420509731306, guid: 33e1ef59a82f88a42a6299b0cd5f7be5, type: 3}
+  - {fileID: 674940536444763898, guid: caa1f9ac2cff4b541a2ddca9fbf6dca0, type: 3}
+  - {fileID: 674940536444763898, guid: b37a4e29a0487fd4b95e7d0bea5fed07, type: 3}
+  - {fileID: 489240902590713208, guid: 17fde1b346b23154687ac9e418a24393, type: 3}
+  - {fileID: 489240902590713208, guid: 453648f171703944dbc8b2c51e016a66, type: 3}
+  itemReward: {fileID: 0}

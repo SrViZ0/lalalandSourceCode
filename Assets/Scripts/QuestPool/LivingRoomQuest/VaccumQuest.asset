@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e3de58406ef784c94f21ffba82de4c, type: 3}
+  m_Name: VaccumQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: VaccumQuest
+  displayName: Kill Enemies with Vacuum
+  questRequirement: []
+  questStepPrefabs:
+  - {fileID: 3030833420509731306, guid: 4600776198ac2bc4a913bbb42cc2bd01, type: 3}
+  - {fileID: 3030833420509731306, guid: 4600776198ac2bc4a913bbb42cc2bd01, type: 3}
+  - {fileID: 3030833420509731306, guid: 4600776198ac2bc4a913bbb42cc2bd01, type: 3}
+  itemReward: {fileID: 11400000, guid: 7df90aa5ed82f4f409c560a9a2e5ef2b, type: 2}

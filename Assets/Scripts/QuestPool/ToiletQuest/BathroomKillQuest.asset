@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e3de58406ef784c94f21ffba82de4c, type: 3}
+  m_Name: BathroomKillQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: BathroomKillQuest
+  displayName: Kill 30 Enemies in Toilet
+  questRequirement: []
+  questStepPrefabs:
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  - {fileID: 3030833420509731306, guid: cb595ffc6d6bcad40af8dc755e473610, type: 3}
+  itemReward: {fileID: 11400000, guid: 3c88a2523b6f070479e748f004712573, type: 2}

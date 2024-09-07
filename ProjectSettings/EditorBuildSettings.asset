@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/MainMenu.unity
+    guid: a34e752386a0b2f4f80ba7ab11a4ea7d
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/TestScene.unity
+    guid: e6d31676a84774b46b5387141ca123df
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/DeathScene.unity
+    guid: c22264a5d0b3aa84390373c1644b385e
+  - enabled: 0
+    path: Assets/Scenes/Final Scenes/Yint Oo Scene.unity
+    guid: f59863ab18c72af49afe731afda854da
+  - enabled: 0
+    path: Assets/Scenes/Syafiq's Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Sulaiman's Scene.unity
+    guid: 323395c8f7a3d7d4c8dbe151fb077524
+  - enabled: 0
+    path: Assets/Scenes/Settings.unity
+    guid: 01b523e0c31a104419d4b59eb8b0cd6f
+  - enabled: 0
+    path: Assets/Scenes/Cy's Scene.unity
+    guid: cc9163f19e4e90144bcb8322b57d1ff0
+  - enabled: 0
+    path: Assets/Scenes/MovementTest.unity
+    guid: 39f89fb87a5dc3647b095b14aa2eee11
+  m_configObjects: {}

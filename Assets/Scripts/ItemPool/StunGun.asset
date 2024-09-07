@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b25dd93de1e8e34f9c44bdc9ecf91f4, type: 3}
+  m_Name: StunGun
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: StunGun
+  displayName: StunGun
+  unlocked: 0
+  equipped: 0
+  active: 0
+  fireRate: 0.2
+  currentAmmoCount: 15
+  maxAmmoCount: 15
+  downtime: 0
+  hubSlot: {fileID: 4167201298793850775, guid: 3004142166fd1f245aa1a7c13c86eea9, type: 3}
+  lockedModelPrefab: {fileID: 439792467992922871, guid: f065f1ce483b2764fb80fc8dc61ec050, type: 3}
+  activeModel: {fileID: 0}
+  projectilePrefab: {fileID: 6782594407730118132, guid: 6a7b504c703a4b148a44636e2df8f5b8, type: 3}
+  skins:
+  - {fileID: 439792467992922871, guid: 2632b41660987504486f5086070189f7, type: 3}
+  - {fileID: 439792467992922871, guid: d86d18135bf1a1e478bfbabdb38f7998, type: 3}
+  - {fileID: 439792467992922871, guid: a2a62458f5e472c4d829dbeb4532ea57, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b25dd93de1e8e34f9c44bdc9ecf91f4, type: 3}
+  m_Name: Revolver
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: Revolver
+  displayName: Default Gun
+  unlocked: 1
+  equipped: 0
+  active: 0
+  fireRate: 0.2
+  currentAmmoCount: 2147483507
+  maxAmmoCount: 2147483647
+  downtime: 0
+  hubSlot: {fileID: 7077860406685503506, guid: aa61d0cfd787f6a44a98769df3c40b13, type: 3}
+  lockedModelPrefab: {fileID: 8979978875969351077, guid: 9ed56bffbf193694c8a594a6fe1fbc24, type: 3}
+  activeModel: {fileID: 0}
+  projectilePrefab: {fileID: 316337413491394587, guid: b0c61939b5745704cae3e2d09254cc3d, type: 3}
+  skins:
+  - {fileID: 5762949458298461410, guid: 6bd495a57cc22cf4cabbc04ad4146025, type: 3}

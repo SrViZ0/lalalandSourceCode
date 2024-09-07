@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6e7cb7e790da4d42be81b590d817860
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - checkpointParent: {instanceID: 0}
+  - flagPrefab: {fileID: 5991563832818690810, guid: d6d2dd2c5c9a62f478c12c49508863f6, type: 3}
+  - startPoint: {instanceID: 0}
+  - endPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
